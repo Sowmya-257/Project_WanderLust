@@ -36,5 +36,5 @@ If you encounter any errors during setup or while running the project, check the
 
 Contact
 If you have any questions or need further assistance, feel free to reach out via email at [sowmyaaddala25@gmail.com].
-If there any good updates also , dont hesitate but text me
+If there any good updates also , don't hesitate but text me
 
