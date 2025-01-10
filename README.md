@@ -28,7 +28,7 @@ Access the Website
 Open your web browser (Google Chrome or any other browser).
 cd <project-folder-name>
 Enter the following URL in the address bar:
-http://localhost:8080/listings
+http://localhost:8080/listings 
 
 Notes
 Ensure that no other application is using port 8080 on your machine.
