@@ -8,6 +8,7 @@ Thank you for choosing to explore my project! Follow the steps below to clone, s
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
+
 1. **Node.js** (v16 or above)
 2. **npm** (Node Package Manager, comes with Node.js)
 3. **Git** (for cloning the repository)
