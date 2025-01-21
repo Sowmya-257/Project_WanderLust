@@ -1,6 +1,5 @@
 # Project Setup and Usage Guide
 
-
 Thank you for choosing to explore my project! Follow the steps below to clone, set up, and run the project on your local machine.
 
 ---
